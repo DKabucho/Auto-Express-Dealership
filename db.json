@@ -1,0 +1,88 @@
+{
+    "cars": [
+      {
+        "id": "1",
+        "car": "Mercedice",
+        "stock": 3,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      },
+      {
+        "id": "2",
+        "car": "Land Cruiser Prado",
+        "stock": 8,
+        "description": ".",
+        "picture": "https://www.autoevolution.com/toyota/land-cruiser-prado/"
+      },
+      {
+        "id": "3",
+        "car": "",
+        "stock": 9,
+        "description": ".",
+        "picture": "https://www.truck1.ke/other-machinery/cars/audi-a7297466.html"
+      },
+      {
+        "id": "4",
+        "car": "",
+        "stock": 1,
+        "description": ".",
+        "picture": "https://www.carmagazine.co.uk/car-reviews/volkswagen/vw-e-golf-review/"
+      },
+      {
+        "id": "5",
+        "car": "",
+        "stock": 3,
+        "description": ".",
+        "picture": "https://www.standardmedia.co.ke/entertainment/motoring/article/2001450900/mazda-axela-highs-and-lows-of-the-toyota-and-nissan-rival"
+      },
+      {
+        "id": "6",
+        "car": "",
+        "stock": 7,
+        "description": ".",
+        "picture": "https://cars.usnews.com/cars-trucks/jeep/compass"
+      },
+      {
+        "id": "7",
+        "car": "",
+        "stock": 8,
+        "description": ".",
+        "picture": "https://www.autofun.ph/cars/ford"
+      },
+      {
+        "id": "8",
+        "car": "",
+        "stock": 5,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      },
+      {
+        "id": "9",
+        "car": "",
+        "stock": 10,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      },
+      {
+        "id": "10",
+        "car": "",
+        "stock": 2,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      },
+      {
+        "id": "11",
+        "car": "",
+        "stock": 4,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      },
+      {
+        "id": "12",
+        "car": "",
+        "stock": 9,
+        "description": ".",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+      }
+    ]
+  }
