@@ -2,87 +2,115 @@
     "cars": [
       {
         "id": "1",
-        "car": "Mercedice",
+        "car": "Mercedes AMG GT4",
         "stock": 3,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "description": "A fast but comfortable choice for you and your partener.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjOU_CO-wgru0rokVPAqgbhYy7avPdQf_GQtqJrwJM0DrdhJ2q5py5XO_5LQfvJahuw4&usqp=CAU",
+        "price": "50,000,000 Ksh"
       },
       {
         "id": "2",
         "car": "Land Cruiser Prado",
-        "stock": 8,
-        "description": ".",
-        "picture": "https://www.autoevolution.com/toyota/land-cruiser-prado/"
+        "stock": 15,
+        "description": "A family car that can do abit of offroading which means you can go to Ushago without an excuse.",
+        "picture": "https://s1.cdn.autoevolution.com/images/models/TOYOTA_Land-Cruiser-2020_main.jpg",
+        "price":"8,000,000 Ksh"
       },
       {
         "id": "3",
-        "car": "",
-        "stock": 9,
-        "description": ".",
-        "picture": "https://www.truck1.ke/other-machinery/cars/audi-a7297466.html"
+        "car": "Audi A7",
+        "stock": 4,
+        "description": "A car that makes you feel like the President when you are being carried in it.",
+        "picture": "https://www.truck1.ke/img/Other_machinery_Audi-ful-8045/8045_6993094576328.jpg",
+        "price":"10,500,000 Ksh"
       },
       {
         "id": "4",
-        "car": "",
-        "stock": 1,
-        "description": ".",
-        "picture": "https://www.carmagazine.co.uk/car-reviews/volkswagen/vw-e-golf-review/"
+        "car": "Volswagon golf",
+        "stock": 15,
+        "description": "A nice first car for a tenager because it is fuel economical.",
+        "picture": "https://car-images.bauersecure.com/wp-images/12967/volkswagen-e-golf-01.jpeg",
+        "price":"1,900,000 Ksh"
       },
       {
         "id": "5",
-        "car": "",
-        "stock": 3,
-        "description": ".",
-        "picture": "https://www.standardmedia.co.ke/entertainment/motoring/article/2001450900/mazda-axela-highs-and-lows-of-the-toyota-and-nissan-rival"
+        "car": "Mazda 3",
+        "stock": 15,
+        "description": "A nice first car for a tenager because it is fuel economical.",
+        "picture": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/zjtYNcxUbEw3RQraZklkGrovNtChKVZU3MBodslz.jpg",
+        "price":"2,500,000 Ksh"
       },
       {
         "id": "6",
-        "car": "",
+        "car": "Jeep Grand Cherokee",
         "stock": 7,
-        "description": ".",
-        "picture": "https://cars.usnews.com/cars-trucks/jeep/compass"
+        "description": "A family car that can do abit of offroading which means you can go to Ushago without an excuse.",
+        "picture": "https://cars.usnews.com/static/images/Auto/custom/15224/2023_Jeep_Compass_Angular_Front_1.jpg",
+        "price":"5,000,000 Ksh"
       },
       {
         "id": "7",
-        "car": "",
-        "stock": 8,
-        "description": ".",
-        "picture": "https://www.autofun.ph/cars/ford"
+        "car": "Ford Raptor",
+        "stock": 6,
+        "description": "A car you can take out with the boys and have fun offroading and abit of camping.",
+        "picture": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/36346b90e9ed41209ec6b093b61c21ef.jpg",
+        "price":"10,200,000 Ksh"
       },
       {
         "id": "8",
-        "car": "",
+        "car": "Porche Cayenne",
         "stock": 5,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "description": "A nice family car that you can use to take your kids to school.",
+        "picture": "https://hips.hearstapps.com/hmg-prod/images/2023-porsche-cayenne-turbo-103-1671474422.jpg?crop=0.780xw:0.659xh;0.125xw,0.216xh&resize=600:*",
+        "price":"8,000,000 Ksh"
       },
       {
         "id": "9",
-        "car": "",
-        "stock": 10,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "car": "Range Rover Autobiography",
+        "stock": 1,
+        "description": "A car that makes you feel like the President when you are being carried in it.",
+        "picture": "https://i.ytimg.com/vi/9pFf9Y77_h8/maxresdefault.jpg",
+        "price":"35,000,000 Ksh"
       },
       {
         "id": "10",
-        "car": "",
-        "stock": 2,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "car": "Subaru Forester",
+        "stock": 20,
+        "description": "A sporty famliy car.",
+        "picture": "https://parkers-images.bauersecure.com/external/cfs/usedcfs-1006086500101825774/-320634016/450x300/1.jpg",
+        "price":"http://127.0.0.1:5500/index.html"
       },
       {
         "id": "11",
-        "car": "",
-        "stock": 4,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "car": "Honda Civic",
+        "stock": 24,
+        "description": "A nice first car for a tenager because it is fuel economical.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
+        "price":""
       },
       {
         "id": "12",
-        "car": "",
+        "car": "BMW 320i",
         "stock": 9,
-        "description": ".",
-        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1489250.jpg&tbnid=Wa885dh6IsSe9M&vet=12ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fbenim.k12.tr%2Fitemphotos%2FUO7hW7i-141394%3Fwork%3D5.6.2463609.5.20.38.4k%2Bmercedes%2Bwallpaper&docid=n7evsaKm-2JowM&w=1920&h=1080&q=mercedes%20background&hl=en&ved=2ahUKEwix4aP7ivX_AhWZnCcCHSrBBEsQMyhJegUIARCXAQ"
+        "description": "A sporty but a fuel economical car.",
+        "picture": "https://cdn.standardmedia.co.ke/images/friday/unex7fgbuny0a61f3de87338ef.jpg",
+        "price":""
+      },
+      {
+        "id": "13",
+        "car": "Volvo CX90",
+        "stock": 3,
+        "description": "A nice family car that you can use to take your kids to school.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuSd7trHUyFdSTtSftPaDl3PAdCZRho-RQQ&usqp=CAU",
+        "price":""
+      },
+      {
+        "id": "14",
+        "car": "Hyundai i20 N",
+        "stock": 9,
+        "description": "A nice first car for a tenager because it is fuel economical.",
+        "picture": "https://images.drive.com.au/driveau/image/upload/t_wp-default/v1/cms/uploads/bbhmcynmjwxqsreuv3aw",
+        "price":""
       }
     ]
   }
