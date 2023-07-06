@@ -9,15 +9,15 @@
     position: relative;
     overflow: hidden;
     background-size: cover;
-    background-image: url(background.jpg);
+    background-image: url(background2.avif);
     background-position: center;
     background-repeat: no-repeat;
     box-sizing: border-box;
     padding-left: 8%;
     padding-right: 8%;
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
-    color: red;
+    color: white;
 }
 .nav-links{
     text-align: right;

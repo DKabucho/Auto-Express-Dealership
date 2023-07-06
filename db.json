@@ -78,7 +78,7 @@
         "stock": 20,
         "description": "A sporty famliy car.",
         "picture": "https://parkers-images.bauersecure.com/external/cfs/usedcfs-1006086500101825774/-320634016/450x300/1.jpg",
-        "price":"http://127.0.0.1:5500/index.html"
+        "price":"5,800,000 Ksh"
       },
       {
         "id": "11",
@@ -86,7 +86,7 @@
         "stock": 24,
         "description": "A nice first car for a tenager because it is fuel economical.",
         "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
-        "price":""
+        "price":"4,000,000 Ksh"
       },
       {
         "id": "12",
@@ -94,7 +94,7 @@
         "stock": 9,
         "description": "A sporty but a fuel economical car.",
         "picture": "https://cdn.standardmedia.co.ke/images/friday/unex7fgbuny0a61f3de87338ef.jpg",
-        "price":""
+        "price":"4,2000,000 Ksh"
       },
       {
         "id": "13",
@@ -102,7 +102,7 @@
         "stock": 3,
         "description": "A nice family car that you can use to take your kids to school.",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuSd7trHUyFdSTtSftPaDl3PAdCZRho-RQQ&usqp=CAU",
-        "price":""
+        "price":"8,900,000 Ksh"
       },
       {
         "id": "14",
@@ -110,7 +110,7 @@
         "stock": 9,
         "description": "A nice first car for a tenager because it is fuel economical.",
         "picture": "https://images.drive.com.au/driveau/image/upload/t_wp-default/v1/cms/uploads/bbhmcynmjwxqsreuv3aw",
-        "price":""
+        "price":"2,000,000"
       }
     ]
   }
